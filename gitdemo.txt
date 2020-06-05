@@ -1,2 +1,12 @@
 //Daves first entry
 hello guys lets go.....
+
+//This is a lists of Tasks for the team:
+1. Samuel:
+Build the top MenuBar.
+
+2. Abudu:
+Build the Item Card Component.
+
+3. David will:
+Build the Categories Component.
