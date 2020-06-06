@@ -1,0 +1,8 @@
+//This is a spec sheet for the project
+
+Specs for Back End here:
+------------------------
+
+
+Specs for Front End here:
+-------------------------
