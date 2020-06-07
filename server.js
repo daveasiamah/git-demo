@@ -18,3 +18,5 @@ const fruits = {
 };
 const fruits = { id: 1, name: "pineapple" };
 const names = ["Frank", "Julia", "Kwesi", "David", "Winnie", "Sam"];
+
+console.log("hello world");
