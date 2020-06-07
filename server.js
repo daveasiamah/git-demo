@@ -1,4 +1,4 @@
-const server = consle.log("Server running...");
+const server = console.log("Server running...");
 
 const fruits = {
   id: 1,
