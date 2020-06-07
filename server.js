@@ -1,4 +1,4 @@
-const server = consle.log("Server running...");
+const server = console.log("Server Running on port 3000");
 
 const fruits = {
   id: 1,
