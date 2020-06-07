@@ -10,3 +10,5 @@ Build the Item Card Component.
 
 3. David will:
 Build the Categories Component.
+
+4. We are learning git today.
