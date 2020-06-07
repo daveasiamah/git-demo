@@ -1,4 +1,5 @@
-const server = console.log("Server running...");
+
+const server = console.log("Server Running on port 3000");
 
 const fruits = {
   id: 1,
@@ -16,5 +17,9 @@ const fruits = {
   id: 7,
   name: "apple",
 };
+
 const fruits = { id: 1, name: "pineapple" };
+
 const names = ["Frank", "Julia", "Kwesi", "David", "Winnie", "Sam"];
+
+console.log("hello world");
